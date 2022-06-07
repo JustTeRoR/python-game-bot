@@ -1,0 +1,37 @@
+1654541470888	geckodriver	INFO	Listening on 127.0.0.1:64312
+1654541473907	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\pavle\\AppData\\Local\\Temp\\rust_mozprofilektYRvR"
+1654541474456	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pavle\\AppData\\Local\\Temp\\rust_mozprofilektYRvR\\search.json.mozlz4", (void 0)))
+1654541476318	Marionette	INFO	Listening on port 64345
+Read port: 64345
+1654541476391	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.miniclip.com"
+JavaScript warning: https://player.tubia.com/libs/gd/main.min.js, line 8: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/2wSGrAFU2I9l4rVgSoL7oTdOOQiRBWDpfuX3kVoAHAw.js line 2 > eval line 1046 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1654613047593	geckodriver	INFO	Listening on 127.0.0.1:62563
+1654613050622	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\pavle\\AppData\\Local\\Temp\\rust_mozprofile0mdWZH"
+1654613051203	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pavle\\AppData\\Local\\Temp\\rust_mozprofile0mdWZH\\search.json.mozlz4", (void 0)))
+1654613053121	Marionette	INFO	Listening on port 62589
+Read port: 62589
+1654613053202	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.miniclip.com"
+JavaScript error: https://static.miniclipcdn.com/bundle/games.5eb017a9975878cd242d.js?1355, line 47: TypeError: this.component is undefined
+1654613078716	Marionette	INFO	Stopped listening on port 62589
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 694: TypeError: this.tablesData[table] is undefined
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1654613515369	geckodriver	INFO	Listening on 127.0.0.1:55730
+1654613518388	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\pavle\\AppData\\Local\\Temp\\rust_mozprofileMcaOOu"
+1654613519305	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pavle\\AppData\\Local\\Temp\\rust_mozprofileMcaOOu\\search.json.mozlz4", (void 0)))
+1654613521025	Marionette	INFO	Listening on port 55755
+Read port: 55755
+1654613521056	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.miniclip.com"
+JavaScript warning: https://player.tubia.com/libs/gd/main.min.js, line 8: unreachable code after return statement
+JavaScript error: https://static.miniclipcdn.com/bundle/games.5eb017a9975878cd242d.js?1355, line 47: TypeError: this.component is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Ad9jBBPkK9vi9bAgcuLyu1_QvBg-YOqOKxt2_RJMMQM.js line 2 > eval line 5082 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
